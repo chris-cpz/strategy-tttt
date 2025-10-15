@@ -1,4 +1,3 @@
-from numpy import 90999999
 #!/usr/bin/env python3
 # Place a single KO market buy order using CPZ AI keys from environment.
 
